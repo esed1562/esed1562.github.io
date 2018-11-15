@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Eric Sedlacek's Homepage
 
 You can use the [editor on GitHub](https://github.com/esed1562/esed1562.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
