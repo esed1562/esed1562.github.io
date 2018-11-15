@@ -31,7 +31,7 @@ Power BI is a Microsoft program that deals with business analytics.  It can be u
 Microsoft PowerShell (completed 30 October 2018)
 [Found Here](https://mva.microsoft.com/MyMVA/Dashboard.aspx) 
 
-GitHub 
+GitHub ( completed 27 August 2018)
 
 Amazon Web Services ( completed 12 November 2018)
 
