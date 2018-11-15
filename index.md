@@ -35,11 +35,17 @@ Power BI is a Microsoft program that deals with business analytics.  It can be u
 For this skill, we were tasked with completing the Amazon Web Services Cloud Practitioner course offered through AWS Training. This training covers various products and services that Amazon offers.  This training provides an overview of what the services entail and a brief demonstration of how to use them. After every section there are knowledge checks before you can move on. These knowledge checks are multiple choice and can be retaken. Each section of this course covers different material and is generally broken up into short videos. Section 1 helps you to gain an understanding of the value of the cloud and the benefits of adopting AWS cloud. Throughout this course you will learn Cloud Concepts, AWS Core Services, Security, Architecting, Pricing and Support, as well as some other essentials. The course takes about 10 hours to complete and is relatively easy compared to the other skills learned during this course. The majority of the information covered is about amazon’s core services and how they operate. Amazon operate on a pay as you go scale, meaning you can allocate resources when you need them and not have to pay for when you don’t need them. AWS also offers a TCO calculator to give you a breakdown of pricing and usage details. Below I will detail a few of the things covered throughout the course in more detail.
 
 -Security Groups: Act like a built-in firewall. The security groups provide control on what traffic you want to allow or deny by setting rules for different security groups. 
+
 -Elastic Load Balancer. Load balancing aides with scalability. It will scale based on the traffic pattern it sees. You can view HTTP responses, the number of healthy/unhealthy hosts, and filter metrics based on availability zones. 
+
 -Amazon Simple Storage Service (S3).  S3 is managed cloud storage service that can be accessed anytime from anywhere, with virtually unlimited number of objects, and has rich security controls. It is commonly used for storing application assets, static web hosting, backup/disaster recovery, etc. 
+
 -Amazon Glacier is a Data Archiving Solution. Glacier is used for storing Cold data. It offers long-term storage at low cost. Access can be limited by vault access policies. 
+
 -Amazon Relational Database Service (RDS) is a managed service that sets up and operates a relational database in the cloud. It handles challenges with managing a stand-alone relational database. Some common uses include mobile and online games, as well as web and mobile applications. 
+
 -AWS Trusted Advisor is a tool that gives best practices to ensure you are utilizing your resources properly.  It can measure cost optimization, performance, security, and fault tolerances. 
+
 -Amazon Shared Responsibility Model- This model essentially means that Amazon is responsible for operating managing services of the cloud. Customers are responsible for what they put on the cloud. 
 
 
