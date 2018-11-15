@@ -33,7 +33,7 @@ Microsoft PowerShell (completed 30 October 2018)
 
 GitHub 
 
-Amazon Web Services
+Amazon Web Services ( completed 12 November 2018)
 
-Linux
+Linux ( completed 15 November 2018)
 
