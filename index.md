@@ -11,7 +11,7 @@ Power BI is a Microsoft program that deals with business analytics.  It can be u
 PowerShell is a task-based command-line scripting and shell language built on .Net framework. PowerShell lets you manage computers from the command-line. This course is far more technical than other skills learned in this class. PowerShell is a very robust and functional program. Tasks are performed by cmdlets or command-lets and allow administrators the ability to perform tasks on both local and remote machines. PowerShell also has an extremely helpful console-based help system. The videos in this course are longer than the videos of the other courses. This makes things slightly more challenging when re-watching content and trying to find a specific topic in the video. Don’t be afraid to go back and re-watch the videos to ensure you have the concepts down. I would also recommend to have the assessments open during the videos so you can pinpoint where a topic was discussed within the videos. I would also recommend speeding the video to 1.5x, it is still easy to follow along with the increase in speed. The videos are very in-depth explanations of the various uses and ways to automate procedures with PowerShell. The two presenters have good chemistry and provide useful anecdotes throughout the videos. 
 
 
-**GitHub** ( completed 27 August 2018)
+**GitHub** ( completed 16 November 2018)
 
 **Amazon Web Services** ( completed 12 November 2018)
 
