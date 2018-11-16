@@ -13,6 +13,8 @@ PowerShell is a task-based command-line scripting and shell language built on .N
 
 **GitHub** ( completed 16 November 2018)
 
+![GitHub Page](https://github.com/esed1562/esed1562.github.io/blob/master/AWS.png)
+
 **Amazon Web Services** ( completed 12 November 2018)
 
 For this skill, we were tasked with completing the Amazon Web Services Cloud Practitioner course offered through AWS Training. This training covers various products and services that Amazon offers.  This training provides an overview of what the services entail and a brief demonstration of how to use them. After every section there are knowledge checks before you can move on. These knowledge checks are multiple choice and can be retaken. Each section of this course covers different material and is generally broken up into short videos. Section 1 helps you to gain an understanding of the value of the cloud and the benefits of adopting AWS cloud. Throughout this course you will learn Cloud Concepts, AWS Core Services, Security, Architecting, Pricing and Support, as well as some other essentials. The course takes about 10 hours to complete and is relatively easy compared to the other skills learned during this course. The majority of the information covered is about amazon’s core services and how they operate. Amazon operate on a pay as you go scale, meaning you can allocate resources when you need them and not have to pay for when you don’t need them. AWS also offers a TCO calculator to give you a breakdown of pricing and usage details. Below I will detail a few of the things covered throughout the course in more detail.
