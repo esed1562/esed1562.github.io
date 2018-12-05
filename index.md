@@ -10,7 +10,7 @@
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
 <body class="w3-light-grey">
-## Welcome to Eric Sedlacek's Homepage
+
 
 **Power BI** (Completed 15 November 2018)
 
