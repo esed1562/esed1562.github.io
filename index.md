@@ -3,6 +3,17 @@
 
 **Power BI** (Completed 15 November 2018)
 
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 
 ![Power BI Image](https://github.com/esed1562/esed1562.github.io/blob/master/Power%20BI.png)
 
