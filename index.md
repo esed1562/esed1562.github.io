@@ -3,22 +3,10 @@
 
 **Power BI** (Completed 15 November 2018)
 
-# A collapsible section with markdown
+# Power BI (Completed 15 November 2018)
 <details>
   <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-
-
-![Power BI Image](https://github.com/esed1562/esed1562.github.io/blob/master/Power%20BI.png)
-
-
-Power BI is a Microsoft program that deals with business analytics.  It can be used to provide useful insights to allow users to make fast and informed decisions.  For this class, students were tasked with completing the EdX training for Power BI. The course is self-paced and takes approximately 12 hours to complete.  The materials and content covered in the training greatly aide in understanding and working with Power BI. The videos and labs associated with the videos provide a clear and concise overview of the materials, with most videos noting additional sources of information, should you choose to go more in-depth with a given topic. Power BI is a robust and functional analytics service that I am happy to have learned and had the opportunity to work hands-on through the labs. The content of the course is broken up into 9 sections. In each section, the topics will be further divided into specific tools or functions of Power BI.  Each short video in these sections averages around 3-5 minutes per topic. At the end of a section, there are knowledge checks.  The knowledge check are short, often multiple choice questions that you have 2 attempts at answering the questions correctly.  After the knowledge checks associated with a given section, there will be lab exercises to complete.  The labs are generally straightforward and later labs will require you to have successfully completed previous labs. There is a brief introduction before starting the course, with an associated pre-course survey.  After providing a brief overview of how-to setup and install Power BI, the introduction gives you a brief overview of some of the features of Power BI and what it can be used for. 
+  Power BI is a Microsoft program that deals with business analytics.  It can be used to provide useful insights to allow users to make fast and informed decisions.  For this class, students were tasked with completing the EdX training for Power BI. The course is self-paced and takes approximately 12 hours to complete.  The materials and content covered in the training greatly aide in understanding and working with Power BI. The videos and labs associated with the videos provide a clear and concise overview of the materials, with most videos noting additional sources of information, should you choose to go more in-depth with a given topic. Power BI is a robust and functional analytics service that I am happy to have learned and had the opportunity to work hands-on through the labs. The content of the course is broken up into 9 sections. In each section, the topics will be further divided into specific tools or functions of Power BI.  Each short video in these sections averages around 3-5 minutes per topic. At the end of a section, there are knowledge checks.  The knowledge check are short, often multiple choice questions that you have 2 attempts at answering the questions correctly.  After the knowledge checks associated with a given section, there will be lab exercises to complete.  The labs are generally straightforward and later labs will require you to have successfully completed previous labs. There is a brief introduction before starting the course, with an associated pre-course survey.  After providing a brief overview of how-to setup and install Power BI, the introduction gives you a brief overview of some of the features of Power BI and what it can be used for. 
 
 -The first section covers Power BI Desktop Data Transformations.  This first section covers some basics like merging columns and other basic data transformations, such as changing data types and adding conditional statements.  
 
@@ -38,7 +26,15 @@ Power BI is a Microsoft program that deals with business analytics.  It can be u
 
 -Section 9, the final section, covers some of the functionality of the mobile app. This final section has no knowledge checks or labs associated with it.  
 
-Once you have completed these 9 sections, there is a Course Wrap-Up.  This is where they thank you for taking their course. There is a brief post-course survey where they ask your opinion about how you enjoyed the course, what you would improve, and how much you feel that you learned. 
+Once you have completed these 9 sections, there is a Course Wrap-Up.  This is where they thank you for taking their course. There is a brief post-course survey where they ask your opinion about how you enjoyed the course, what you would improve, and how much you feel that you learned.
+  ## Power BI
+  
+</details>
+
+
+![Power BI Image](https://github.com/esed1562/esed1562.github.io/blob/master/Power%20BI.png)
+
+
 
 **Microsoft PowerShell** (completed 30 October 2018)
 
