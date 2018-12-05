@@ -1,7 +1,6 @@
 
 ## Weclome to Eric Sedlacek's Homepage
 
-**Power BI** (Completed 15 November 2018)
 
 # Power BI (Completed 15 November 2018)
 <details>
@@ -36,8 +35,6 @@ Once you have completed these 9 sections, there is a Course Wrap-Up.  This is wh
 
 
 
-**Microsoft PowerShell** (completed 30 October 2018)
-
 # Microsoft PowerShell (completed 30 October 2018)
 <details>
   <summary>Click to expand!</summary>
@@ -48,7 +45,6 @@ Once you have completed these 9 sections, there is a Course Wrap-Up.  This is wh
 ![PowerShell](https://github.com/esed1562/esed1562.github.io/blob/master/PowerShell.png) 
 
 
-**GitHub** ( completed 16 November 2018)
 
 # GitHub ( completed 16 November 2018)
 <details>
@@ -60,8 +56,6 @@ Once you have completed these 9 sections, there is a Course Wrap-Up.  This is wh
 ![GitHub Page](https://github.com/esed1562/esed1562.github.io/blob/master/GitHub%20Page.png)
 
 
-
-**Amazon Web Services** ( completed 12 November 2018)
 
 # Amazon Web Services ( completed 12 November 2018)
 <details>
@@ -86,14 +80,13 @@ Once you have completed these 9 sections, there is a Course Wrap-Up.  This is wh
 
 ![Amazon Web Services](https://github.com/esed1562/esed1562.github.io/blob/master/AWS.png)
 
-        esed1562.github.io/AWS.png
       
 
 
 
-**Linux** ( completed 15 November 2018)
 
-# Guru99 Tutorial (completed 15 November 2018)
+
+# Guru99 Linux Tutorial (completed 15 November 2018)
 <details>
   <summary>Click to expand!</summary>
   
