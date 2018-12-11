@@ -3,17 +3,20 @@
 
 
 # Power BI (Completed 15 November 2018)
+
+Power BI is a Microsoft program that deals with business analytics.  It can be used to provide useful insights to allow users to make fast and informed decisions.  For this class, students were tasked with completing the EdX training for Power BI. The course is self-paced and takes approximately 12 hours to complete.  The materials and content covered in the training greatly aide in understanding and working with Power BI. The videos and labs associated with the videos provide a clear and concise overview of the materials, with most videos noting additional sources of information, should you choose to go more in-depth with a given topic. Power BI is a robust and functional analytics service that I am happy to have learned and had the opportunity to work hands-on through the labs. The content of the course is broken up into 9 sections. In each section, the topics will be further divided into specific tools or functions of Power BI.  Each short video in these sections averages around 3-5 minutes per topic. At the end of a section, there are knowledge checks.  The knowledge check are short, often multiple choice questions that you have 2 attempts at answering the questions correctly.  After the knowledge checks associated with a given section, there will be lab exercises to complete.  The labs are generally straightforward and later labs will require you to have successfully completed previous labs. There is a brief introduction before starting the course, with an associated pre-course survey.  After providing a brief overview of how-to setup and install Power BI, the introduction gives you a brief overview of some of the features of Power BI and what it can be used for. 
+
 <details>
   <summary>Click to expand!</summary>
-  Power BI is a Microsoft program that deals with business analytics.  It can be used to provide useful insights to allow users to make fast and informed decisions.  For this class, students were tasked with completing the EdX training for Power BI. The course is self-paced and takes approximately 12 hours to complete.  The materials and content covered in the training greatly aide in understanding and working with Power BI. The videos and labs associated with the videos provide a clear and concise overview of the materials, with most videos noting additional sources of information, should you choose to go more in-depth with a given topic. Power BI is a robust and functional analytics service that I am happy to have learned and had the opportunity to work hands-on through the labs. The content of the course is broken up into 9 sections. In each section, the topics will be further divided into specific tools or functions of Power BI.  Each short video in these sections averages around 3-5 minutes per topic. At the end of a section, there are knowledge checks.  The knowledge check are short, often multiple choice questions that you have 2 attempts at answering the questions correctly.  After the knowledge checks associated with a given section, there will be lab exercises to complete.  The labs are generally straightforward and later labs will require you to have successfully completed previous labs. There is a brief introduction before starting the course, with an associated pre-course survey.  After providing a brief overview of how-to setup and install Power BI, the introduction gives you a brief overview of some of the features of Power BI and what it can be used for. 
+  
   /n 
   
 
--The first section covers Power BI Desktop Data Transformations.  This first section covers some basics like merging columns and other basic data transformations, such as changing data types and adding conditional statements.  
+The first section covers Power BI Desktop Data Transformations.  This first section covers some basics like merging columns and other basic data transformations, such as changing data types and adding conditional statements.  
 
 /n
 
--Section 2 is Power BI Desktop Modelling.  This section builds on the previous and covers topics such as optimizing models, creating calculated columns, including/excluding, and grouping/binning. Like section 1, Section 2 has knowledge checks and a lab associated with the videos. 
+Section 2 is Power BI Desktop Modelling.  This section builds on the previous and covers topics such as optimizing models, creating calculated columns, including/excluding, and grouping/binning. Like section 1, Section 2 has knowledge checks and a lab associated with the videos. 
 
 
 
