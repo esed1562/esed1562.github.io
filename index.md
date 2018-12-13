@@ -12,7 +12,7 @@ Power BI is a Microsoft program that deals with business analytics.  It can be u
 
   
 
-* The first section covers Power BI Desktop Data Transformations.  This first section covers some basics like merging columns and other basic data transformations, such as changing data types and adding conditional statements.  
+<p>* The first section covers Power BI Desktop Data Transformations.  This first section covers some basics like merging columns and other basic data transformations, such as changing data types and adding conditional statements. </p> 
 
 
 
