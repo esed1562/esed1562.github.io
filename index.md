@@ -48,7 +48,7 @@ Power BI is a Microsoft program that deals with business analytics.  It can be u
 </details>
 
 
-![Power BI Image](https://github.com/esed1562/esed1562.github.io/blob/master/Power%20BI.png)
+![Power BI Image](https://github.com/esed1562/esed1562.github.io/blob/master/PowerBI.png)
 
 
 
