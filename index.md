@@ -11,7 +11,7 @@ layout: default
 Power BI is a Microsoft program that deals with business analytics.  It can be used to provide useful insights to allow users to make fast and informed decisions.  For this class, students were tasked with completing the EdX training for Power BI. The course is self-paced and takes approximately 12 hours to complete.  The materials and content covered in the training greatly aide in understanding and working with Power BI. The videos and labs associated with the videos provide a clear and concise overview of the materials, with most videos noting additional sources of information, should you choose to go more in-depth with a given topic. Power BI is a robust and functional analytics service that I am happy to have learned and had the opportunity to work hands-on through the labs. The content of the course is broken up into 9 sections. In each section, the topics will be further divided into specific tools or functions of Power BI.  Each short video in these sections averages around 3-5 minutes per topic. At the end of a section, there are knowledge checks.  The knowledge check are short, often multiple choice questions that you have 2 attempts at answering the questions correctly.  After the knowledge checks associated with a given section, there will be lab exercises to complete.  The labs are generally straightforward and later labs will require you to have successfully completed previous labs. There is a brief introduction before starting the course, with an associated pre-course survey.  After providing a brief overview of how-to setup and install Power BI, the introduction gives you a brief overview of some of the features of Power BI and what it can be used for. 
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to learn more about this skill!</summary>
   
 
   
@@ -58,7 +58,7 @@ PowerShell is a task-based command-line scripting and shell language built on .N
 
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to learn more about this skill!</summary>
   
    This course is far more technical than other skills learned in this class. PowerShell is a very robust and functional program.  PowerShell also has an extremely helpful console-based help system. The videos in this course are longer than the videos of the other courses. This makes things slightly more challenging when re-watching content and trying to find a specific topic in the video. Don’t be afraid to go back and re-watch the videos to ensure you have the concepts down. I would also recommend to have the assessments open during the videos so you can pinpoint where a topic was discussed within the videos. I would also recommend speeding the video to 1.5x, it is still easy to follow along with the increase in speed. The videos are very in-depth explanations of the various uses and ways to automate procedures with PowerShell. The two presenters have good chemistry and provide useful anecdotes throughout the videos. 
 </details>
@@ -73,7 +73,7 @@ This short course from GitHub walks you through some of the basics of GitHub. In
 
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to learn more about this skill!</summary>
 <p>In this first section, I had little to no trouble completing this. The next section deals with Markdown.  I did have trouble with this section. I have followed the instructions and got “stuck” part of the way through. I am being told to turn on GitHub Pages before I can continue, but I have already enabled GitHub Pages. I have tried disabling and re-enabling, to no avail. </p>
   <p>The next section deals with GitHub Pages. It walks you through how to enable GitHub Pages, customize your homepage, adding themes, etc. It also shows you how to create a blog post and add meta data to the blog post as well as various customization details. </p>
  <p> The next section deals with Managing Merge Conflicts. Be sure to pay attention to which file you are being asked to modify. This section will have you working with a number of different files and will not let you move on to the next issue if you have not edited the correct file. This tutorial does a good job of walking you through and explaining in detail what is happening to the files during various pull requests.</p>
@@ -92,7 +92,7 @@ This short course from GitHub walks you through some of the basics of GitHub. In
 For this skill, we were tasked with completing the Amazon Web Services Cloud Practitioner course offered through AWS Training. This training covers various products and services that Amazon offers.  This training provides an overview of what the services entail and a brief demonstration of how to use them. After every section there are knowledge checks before you can move on. These knowledge checks are multiple choice and can be retaken. Each section of this course covers different material and is generally broken up into short videos.
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to learn more about this skill!</summary>
   
 <p>  Section 1 helps you to gain an understanding of the value of the cloud and the benefits of adopting AWS cloud. Throughout this course you will learn Cloud Concepts, AWS Core Services, Security, Architecting, Pricing and Support, as well as some other essentials. The course takes about 10 hours to complete and is relatively easy compared to the other skills learned during this course. The majority of the information covered is about amazon’s core services and how they operate. Amazon operate on a pay as you go scale, meaning you can allocate resources when you need them and not have to pay for when you don’t need them. AWS also offers a TCO calculator to give you a breakdown of pricing and usage details. Below I will detail a few of the things covered throughout the course in more detail.</p>
 
@@ -124,7 +124,7 @@ For this skill, we were tasked with completing the Amazon Web Services Cloud Pra
 The Guru99 course on Linux begins with the basics and works its way up through more advanced operations. It starts with information about what an operating system is and who, Linus Torvalds, the creator of Linux is. In addition, it gives a brief history of the Operating System. Next the tutorial walks you through a few options for different Linux distributions and gives a brief description for each. Although I have slight experience with a different distribution than the one recommended by the tutorial, I chose to use Ubuntu, which is recommended by the tutorial.
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to learn more about this skill!</summary>
   
 <p>Next the tutorial walks you through how to load the appropriate .iso file and make a bootable USB drive. It also gives you options to install Linux on a Virtual Machine or install from a CD-ROM. I chose to use a bootable flash drive. Next, the tutorial begins to delve a little deeper.  This section discusses some of the differences between Windows and Linux.  In particular, the differences in file structure. While Windows stores files in folders on drives, such as C: D: E:, Linux files are ordered in a tree structure. In addition to having a different file structure, Linux also handles files differently.  Some of the different file types are discussed. Next the tutorial covers the three types of users in Linux. This section is important to have a grasp on as it details a lot of the functional differences between Linux and Windows. The last section of the Linux Fundamentals portion covers briefly the command line interface (CLI) and the graphical user interface (GUI) that can be used to manage files within a Linux system. Some common commands can be used to set a working directory, change directories, and navigate throughout directories. The tutorial walks you through how to open the terminal and run a few commands via the CLI. </p>
 <p>  Next you will move onto the “Getting Started” portion of the tutorial. This portion of the tutorial will cover more in depth some of the commands you can use in the CLI to perform various actions within Linux. Some of the commands covered are used to list files, delete files, move files or rename files. One interesting thing to note is when pasting commands into the terminal, you need to use CRTL + Shift + p. Some other things covered in this section are how to install software using the apt command and sending emails through the terminal. The “cheat sheet” provided details the commands and what they do in Linux. The next section covers the various aspects of file permissions. There are three permissions within Linux, the ability to read, write, and execute.  Next it goes in depth about how to change permissions for users, groups, and others. That completes the “Getting Started” portion and now you will move onto “Advance Stuff”. </p>
