@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 
 ## Weclome to Eric Sedlacek's Homepage
 
