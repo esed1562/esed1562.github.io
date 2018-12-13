@@ -20,29 +20,29 @@ Power BI is a Microsoft program that deals with business analytics.  It can be u
 
 
 
-* Section 2 is Power BI Desktop Modelling.  This section builds on the previous and covers topics such as optimizing models, creating calculated columns, including/excluding, and grouping/binning. Like section 1, Section 2 has knowledge checks and a lab associated with the videos. 
+<p>* Section 2 is Power BI Desktop Modelling.  This section builds on the previous and covers topics such as optimizing models, creating calculated columns, including/excluding, and grouping/binning. Like section 1, Section 2 has knowledge checks and a lab associated with the videos. </p>
 
 
 
-* Section 3 is Power BI Desktop Visualization. This section covers a variety of different charts, plots, and diagrams that you can use to visualize your data. I found the map visualization to be very impressive compared to similar charts in Excel or R. The charts are also interactive and more precise values can be seen while hovering over a field or chart. This is one of the longer sections and really does a great job of covering the functionality and different real-world use cases for each of the different types of charts and how to customize the layout and colors of the charts.  I was really amazed at how robust and easy to use this software is. In addition, Section 3 also covers hierarchies, positioning and layout, as well as seeing a visual relationship between different data sets. Section 3 also has a lab associated with it.  
+<p>* Section 3 is Power BI Desktop Visualization. This section covers a variety of different charts, plots, and diagrams that you can use to visualize your data. I found the map visualization to be very impressive compared to similar charts in Excel or R. The charts are also interactive and more precise values can be seen while hovering over a field or chart. This is one of the longer sections and really does a great job of covering the functionality and different real-world use cases for each of the different types of charts and how to customize the layout and colors of the charts.  I was really amazed at how robust and easy to use this software is. In addition, Section 3 also covers hierarchies, positioning and layout, as well as seeing a visual relationship between different data sets. Section 3 also has a lab associated with it. </p> 
 
 
 
-* Section 4 covers Power BI Service.  Section 4 covers a web-page style version of Power BI Desktop.  This can be used to publish and share various reports with other people.  These other users may be within your organization or may be a third-party. This section also covers different ways in which you can create a dashboard and use it to gain useful insights about your data. It covers how to add text boxes, how to filter the dashboard, as well as how to upload various files to Power BI Service. I was also very interested in the Natural Query Language that can be utilized through Power BI Service. Section 4 also has a lab associated with it. 
+<p>* Section 4 covers Power BI Service.  Section 4 covers a web-page style version of Power BI Desktop.  This can be used to publish and share various reports with other people.  These other users may be within your organization or may be a third-party. This section also covers different ways in which you can create a dashboard and use it to gain useful insights about your data. It covers how to add text boxes, how to filter the dashboard, as well as how to upload various files to Power BI Service. I was also very interested in the Natural Query Language that can be utilized through Power BI Service. Section 4 also has a lab associated with it. </p>
 
 
 
-* Section 5 covers Working with Excel. This section details the various functions and uses of Excel with Power BI. It covers some more in-depth concepts with the types of data excel has and how Power BI handles them. There is an associated lab with Section 5. 
+<p>* Section 5 covers Working with Excel. This section details the various functions and uses of Excel with Power BI. It covers some more in-depth concepts with the types of data excel has and how Power BI handles them. There is an associated lab with Section 5. </p>
 
-* Section 6 covers Organization Packs, Security and Groups.  This section details how to group and provide different security settings or who has access to what data. It covers how to create and manage groups. It discussed what a content pack is, how to create and manage one, and some particular functions when using OneDrive with Power BI. There is a lab associated with Section 6. 
+<p>* Section 6 covers Organization Packs, Security and Groups.  This section details how to group and provide different security settings or who has access to what data. It covers how to create and manage groups. It discussed what a content pack is, how to create and manage one, and some particular functions when using OneDrive with Power BI. There is a lab associated with Section 6. </p>
 
-* Section 7 covers Direct Connectivity. This section deals with how to link active SQL Azure, SQL Database, and SQL Server Analytics Service with Power BI. Section 7 has a lab associated with it. 
+<p>* Section 7 covers Direct Connectivity. This section deals with how to link active SQL Azure, SQL Database, and SQL Server Analytics Service with Power BI. Section 7 has a lab associated with it.</p> 
 
-* Section 8 covers Developer API and contains the final lab required to complete the course. This section seemed to be far more technical than the rest. It covers how to create and manage custom visuals and embedding tiles to reports pages. 
+<p>* Section 8 covers Developer API and contains the final lab required to complete the course. This section seemed to be far more technical than the rest. It covers how to create and manage custom visuals and embedding tiles to reports pages.</p> 
 
-* Section 9, the final section, covers some of the functionality of the mobile app. This final section has no knowledge checks or labs associated with it.  
+<p>* Section 9, the final section, covers some of the functionality of the mobile app. This final section has no knowledge checks or labs associated with it. </p> 
 
-* Once you have completed these 9 sections, there is a Course Wrap-Up.  This is where they thank you for taking their course. There is a brief post-course survey where they ask your opinion about how you enjoyed the course, what you would improve, and how much you feel that you learned.
+<p>* Once you have completed these 9 sections, there is a Course Wrap-Up.  This is where they thank you for taking their course. There is a brief post-course survey where they ask your opinion about how you enjoyed the course, what you would improve, and how much you feel that you learned.</p>
 
   
 </details>
@@ -74,7 +74,12 @@ This short course from GitHub walks you through some of the basics of GitHub. In
 
 <details>
   <summary>Click to expand!</summary>
-   In this first section, I had little to no trouble completing this. The next section deals with Markdown.  I did have trouble with this section. I have followed the instructions and got “stuck” part of the way through. I am being told to turn on GitHub Pages before I can continue, but I have already enabled GitHub Pages. I have tried disabling and re-enabling, to no avail. The next section deals with GitHub Pages. It walks you through how to enable GitHub Pages, customize your homepage, adding themes, etc. It also shows you how to create a blog post and add meta data to the blog post as well as various customization details. The next section deals with Managing Merge Conflicts. Be sure to pay attention to which file you are being asked to modify. This section will have you working with a number of different files and will not let you move on to the next issue if you have not edited the correct file. This tutorial does a good job of walking you through and explaining in detail what is happening to the files during various pull requests. The next section covers HTML or Hyper Text Markup Language. As a CIS graduate, this was simply a refresher for me and should be for most people in the class. It goes over some of the basics of creating titles, headers, adding images, creating lists and adding links to your page. The next topics covered are under the Community Starter Kit. This involves README and other documentation associated with projects as well as going over a “Code of Conduct”. The next sections covers how to prepare and upload a project to GitHub. The next topic discussed is how to migrate your repository to GitHub. Overall, I found this to be one of the more frustrating tutorials completed this semester.  I know that is will be very useful to me in my future career, and as I’m reviewing the course, there is a notification letting me know there is a more current version of this course available and I intend to re-complete this course. 
+<p>In this first section, I had little to no trouble completing this. The next section deals with Markdown.  I did have trouble with this section. I have followed the instructions and got “stuck” part of the way through. I am being told to turn on GitHub Pages before I can continue, but I have already enabled GitHub Pages. I have tried disabling and re-enabling, to no avail. </p>
+  <p>The next section deals with GitHub Pages. It walks you through how to enable GitHub Pages, customize your homepage, adding themes, etc. It also shows you how to create a blog post and add meta data to the blog post as well as various customization details. </p>
+ <p> The next section deals with Managing Merge Conflicts. Be sure to pay attention to which file you are being asked to modify. This section will have you working with a number of different files and will not let you move on to the next issue if you have not edited the correct file. This tutorial does a good job of walking you through and explaining in detail what is happening to the files during various pull requests.</p>
+ <p> The next section covers HTML or Hyper Text Markup Language. As a CIS graduate, this was simply a refresher for me and should be for most people in the class. It goes over some of the basics of creating titles, headers, adding images, creating lists and adding links to your page. </p>
+  <p>The next topics covered are under the Community Starter Kit. This involves README and other documentation associated with projects as well as going over a “Code of Conduct”. The next sections covers how to prepare and upload a project to GitHub. The next topic discussed is how to migrate your repository to GitHub.</p> 
+ <p> Overall, I found this to be one of the more frustrating tutorials completed this semester.  I know that is will be very useful to me in my future career, and as I’m reviewing the course, there is a notification letting me know there is a more current version of this course available and I intend to re-complete this course. </p>
   
 </details>
 
@@ -89,21 +94,21 @@ For this skill, we were tasked with completing the Amazon Web Services Cloud Pra
 <details>
   <summary>Click to expand!</summary>
   
-*  Section 1 helps you to gain an understanding of the value of the cloud and the benefits of adopting AWS cloud. Throughout this course you will learn Cloud Concepts, AWS Core Services, Security, Architecting, Pricing and Support, as well as some other essentials. The course takes about 10 hours to complete and is relatively easy compared to the other skills learned during this course. The majority of the information covered is about amazon’s core services and how they operate. Amazon operate on a pay as you go scale, meaning you can allocate resources when you need them and not have to pay for when you don’t need them. AWS also offers a TCO calculator to give you a breakdown of pricing and usage details. Below I will detail a few of the things covered throughout the course in more detail.
+<p>*  Section 1 helps you to gain an understanding of the value of the cloud and the benefits of adopting AWS cloud. Throughout this course you will learn Cloud Concepts, AWS Core Services, Security, Architecting, Pricing and Support, as well as some other essentials. The course takes about 10 hours to complete and is relatively easy compared to the other skills learned during this course. The majority of the information covered is about amazon’s core services and how they operate. Amazon operate on a pay as you go scale, meaning you can allocate resources when you need them and not have to pay for when you don’t need them. AWS also offers a TCO calculator to give you a breakdown of pricing and usage details. Below I will detail a few of the things covered throughout the course in more detail.</p>
 
-* Security Groups: Act like a built-in firewall. The security groups provide control on what traffic you want to allow or deny by setting rules for different security groups. 
+<p>* Security Groups: Act like a built-in firewall. The security groups provide control on what traffic you want to allow or deny by setting rules for different security groups.</p> 
 
-* Elastic Load Balancer. Load balancing aides with scalability. It will scale based on the traffic pattern it sees. You can view HTTP responses, the number of healthy/unhealthy hosts, and filter metrics based on availability zones. 
+<p>* Elastic Load Balancer. Load balancing aides with scalability. It will scale based on the traffic pattern it sees. You can view HTTP responses, the number of healthy/unhealthy hosts, and filter metrics based on availability zones.</p> 
 
-* Amazon Simple Storage Service (S3).  S3 is managed cloud storage service that can be accessed anytime from anywhere, with virtually unlimited number of objects, and has rich security controls. It is commonly used for storing application assets, static web hosting, backup/disaster recovery, etc. 
+<p>* Amazon Simple Storage Service (S3).  S3 is managed cloud storage service that can be accessed anytime from anywhere, with virtually unlimited number of objects, and has rich security controls. It is commonly used for storing application assets, static web hosting, backup/disaster recovery, etc.</p> 
 
-* Amazon Glacier is a Data Archiving Solution. Glacier is used for storing Cold data. It offers long-term storage at low cost. Access can be limited by vault access policies. 
+<p>* Amazon Glacier is a Data Archiving Solution. Glacier is used for storing Cold data. It offers long-term storage at low cost. Access can be limited by vault access policies.</p> 
 
-* Amazon Relational Database Service (RDS) is a managed service that sets up and operates a relational database in the cloud. It handles challenges with managing a stand-alone relational database. Some common uses include mobile and online games, as well as web and mobile applications. 
+<p>* Amazon Relational Database Service (RDS) is a managed service that sets up and operates a relational database in the cloud. It handles challenges with managing a stand-alone relational database. Some common uses include mobile and online games, as well as web and mobile applications.</p> 
 
-* AWS Trusted Advisor is a tool that gives best practices to ensure you are utilizing your resources properly.  It can measure cost optimization, performance, security, and fault tolerances. 
+<p>* AWS Trusted Advisor is a tool that gives best practices to ensure you are utilizing your resources properly.  It can measure cost optimization, performance, security, and fault tolerances.</p> 
 
-* Amazon Shared Responsibility Model- This model essentially means that Amazon is responsible for operating managing services of the cloud. Customers are responsible for what they put on the cloud. 
+<p>* Amazon Shared Responsibility Model- This model essentially means that Amazon is responsible for operating managing services of the cloud. Customers are responsible for what they put on the cloud.</p> 
 </details>
 
 ![Amazon Web Services](https://github.com/esed1562/esed1562.github.io/blob/master/AWS.png)
