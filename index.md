@@ -40,8 +40,6 @@ Power BI is a Microsoft program that deals with business analytics.  It can be u
 
 * Once you have completed these 9 sections, there is a Course Wrap-Up.  This is where they thank you for taking their course. There is a brief post-course survey where they ask your opinion about how you enjoyed the course, what you would improve, and how much you feel that you learned.
 
-
-  ## Power BI
   
 </details>
 
