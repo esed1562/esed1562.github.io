@@ -63,8 +63,6 @@ PowerShell is a task-based command-line scripting and shell language built on .N
    This course is far more technical than other skills learned in this class. PowerShell is a very robust and functional program.  PowerShell also has an extremely helpful console-based help system. The videos in this course are longer than the videos of the other courses. This makes things slightly more challenging when re-watching content and trying to find a specific topic in the video. Don’t be afraid to go back and re-watch the videos to ensure you have the concepts down. I would also recommend to have the assessments open during the videos so you can pinpoint where a topic was discussed within the videos. I would also recommend speeding the video to 1.5x, it is still easy to follow along with the increase in speed. The videos are very in-depth explanations of the various uses and ways to automate procedures with PowerShell. The two presenters have good chemistry and provide useful anecdotes throughout the videos. 
 </details>
 
-![PowerShell](https://github.com/esed1562/esed1562.github.io/blob/master/PowerShell.png)
-
 <img src="assets/images/PowerShell.png">
 
 
@@ -85,7 +83,7 @@ This short course from GitHub walks you through some of the basics of GitHub. In
   
 </details>
 
-![GitHub Page](https://github.com/esed1562/esed1562.github.io/blob/master/GitHub%20Page.png)
+
 
 <img src="assets/images/GitHub%20Page.png">
 
@@ -115,7 +113,6 @@ For this skill, we were tasked with completing the Amazon Web Services Cloud Pra
 <p> Amazon Shared Responsibility Model- This model essentially means that Amazon is responsible for operating managing services of the cloud. Customers are responsible for what they put on the cloud.</p> 
 </details>
 
-![Amazon Web Services](https://github.com/esed1562/esed1562.github.io/blob/master/AWS.png)
 
 <img src="assets/images/AWS.png">
 
